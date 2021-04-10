@@ -1,0 +1,16 @@
+
+C-SPC C-@ 设置mark
+C-c C-c 注释
+C-u C-c C-c 取消注释
+C-x b : Switch Buffer
+C-x k : kill buffer
+M-h : 全选
+C-M-\ : indent-region
+C-M-f Move forward by s-expression
+C-M-b Move backward by s-expression
+C-M-d Move down into a list 进入一个括号
+C-M-u Move up out of a list
+C-M-n Move forward to the next list
+C-M-p Move backward to the previous list
+M-} Move forward to end of paragraphoo
+M-{ Move backward to start of paragraph
